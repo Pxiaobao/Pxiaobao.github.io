@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 <html>
 
 	<head>
 		<meta charset="utf-8" />
-		<title>广州澳源股份有限公司 广州锴国实业创意科技有限公司dfgdfg</title>
-		<meta name="Keywords" content="澳源,锴国实业,广州澳源 ,澳源股份,锴国实业创意,广州锴国实业,广州澳源股份有限公司,广州锴国实业创意科技有限公司" />
+		<title>巨藻载玻片</title>
+		<meta name="Keywords" content="巨藻,锴国实业,载玻片" />
 		<link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css" />
 		<link rel="stylesheet" type="text/css" href="./css/yuankustyle.css" />
 		<script src="./js/jquery-1.10.2.min.js" type="text/javascript" charset="utf-8"></script>
